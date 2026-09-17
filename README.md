@@ -1,5 +1,5 @@
 Superstore Sales Analysis (SQL Project)
-About this project
+About this project:
 I worked on this project to practice SQL using a retail dataset and to understand how businesses analyze sales and profit.
 Along with basic queries, I also explored more advanced SQL concepts like CTEs and window functions to answer deeper business questions.
 Tools used
